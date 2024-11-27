@@ -44,9 +44,9 @@
 
 * Accessibility:
     * Alt-text: Add descriptive alt-text to convey the essential information. For example: "Bar chart showing the percentage of Americans identifying as Christians in 2009 (77%) and 2019 (65%). The y-axis starts at 58, misleadingly exaggerating the decline."
-Correct the Y-Axis: Start the y-axis at 0 to provide a true representation of the data, making it easier for viewers to interpret accurately.
+    * Correct the Y-Axis: Start the y-axis at 0 to provide a true representation of the data, making it easier for viewers to interpret accurately.
     
-    * Reproducibility: Include detailed information about data sources, collection methods, and any transformations applied to the data. This transparency allows others to recreate and verify the visualization, as recommended by Tactical Technology Collective (2013).
+* Reproducibility: Include detailed information about data sources, collection methods, and any transformations applied to the data. This transparency allows others to recreate and verify the visualization, as recommended by Tactical Technology Collective (2013).
 
 * Equity: Ensure the visualization accurately represents the data without exaggeration or distortion. Adhere to ethical visualization practices, such as maintaining proportional scales and providing context. Tactical Technology Collective (2013) highlights the importance of fairness and neutrality in presenting data.
 
@@ -68,7 +68,8 @@ Correct the Y-Axis: Start the y-axis at 0 to provide a true representation of th
     * Alt-text: Add descriptive alt-text to ensure accessibility for users with visual impairments. For example: "Circular visualization representing the world's population at 8 billion as of November 15, 2022. Different colors represent continents and lines separate countries."
 
     * Interactive Elements: Adding interactive elements, such as tooltips with additional data details, could further enhance user engagement and understanding, as suggested by Tactical Technology Collective (2013).
-Reproducibility: To ensure reproducibility, include clear citations of data sources and a description of the methodology used to process the data. Providing access to the raw data would also be beneficial, aligning with the guidelines from Tactical Technology Collective (2013) on transparency and documentation.
+
+* Reproducibility: To ensure reproducibility, include clear citations of data sources and a description of the methodology used to process the data. Providing access to the raw data would also be beneficial, aligning with the guidelines from Tactical Technology Collective (2013) on transparency and documentation.
 
 * Equity: The visualization could further improve equity by including contextual information about the implications of population growth. This could involve discussing resource distribution, environmental impact, and socio-economic challenges, ensuring the visualization not only informs but also educates viewers on the broader context. Tactical Technology Collective (2013) emphasizes the importance of providing context to help users understand the broader implications of the data.
 
