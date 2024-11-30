@@ -1,7 +1,7 @@
 # Assignment 4: Tableau Public
 
-Link to datasets: https://www.ontario.ca/page/public-sector-salary-disclosure
-Link to Tableau Public: https://public.tableau.com/app/profile/adrienne.lloren/viz/shared/7QQDTS66C
+* Link to datasets: https://www.ontario.ca/page/public-sector-salary-disclosure
+* Link to Tableau Public: https://public.tableau.com/app/profile/adrienne.lloren/viz/shared/7QQDTS66C
 
 ### What software did you use to create your data visualization?
 The software used to visualize is Tableau Public.
