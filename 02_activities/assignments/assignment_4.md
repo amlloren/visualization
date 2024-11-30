@@ -15,7 +15,7 @@ I created a new folder called assignment_4 that holds all the files used to comp
     * Supporting Files:
         * 1_python_viz.md -- contains my answers to the describe and justify questions.
         * 2_python_visualization_1.ipynb -- contains the python code I used to create the data visualization
-        * python viz output folder (02_activities/assignments/assignment_4/python viz output/)
+        * python_viz_output folder (02_activities/assignments/assignment_4/python_viz_output/)
 
 2. Data Visualization using Tableau Public
     * Goal: Create robust data visualizations of the Average Salary by Sector based on the Ontario Public Sector Salary Discloure for the years 1996 to 2023 (28 years). 
