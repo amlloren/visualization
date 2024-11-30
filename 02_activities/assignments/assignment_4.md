@@ -2,6 +2,28 @@
 
 ## Assignment 4: Final Project
 
+### Dataset of Choice:
+* Link to datasets: https://www.ontario.ca/page/public-sector-salary-disclosure
+    * NOTE: I downloaded individual datasets for the years 1996 to 2023, since the file sizes for these were larger that 100 MB they are not included in my repo. 
+* This dataset was used to create data visualizations for the Average Salary by Sector based on the Ontario Public Sector Salary Discloure.
+
+### Navigating my Final Project submission:
+I created a new folder called assignment_4 that holds all the files used to complete this Final Project (file path: 02_activities/assignments/assignment_4). Below is the table of contents:
+
+1. Data Visualization using Python
+    * Goal: Create data visualizations the Average Salary by Sector based on the Ontario Public Sector Salary Discloure for the years 2019 to 2023 (5 Years).
+    * Supporting Files:
+        * 1_python_viz.md -- contains my answers to the describe and justify questions.
+        * 2_python_visualization_1.ipynb -- contains the python code I used to create the data visualization
+        * python_viz_output folder (02_activities/assignments/assignment_4/python_viz_output/)
+
+2. Data Visualization using Tableau Public
+    * Goal: Create robust data visualizations of the Average Salary by Sector based on the Ontario Public Sector Salary Discloure for the years 1996 to 2023 (28 years). 
+    * Supporting Files:
+        * 3_tableau_viz.md (contains my answers to the describe and justify questions)
+        * 4_data_cleaning_for_tableau.ipynb
+        * Link to Tableau Public: https://public.tableau.com/app/profile/adrienne.lloren/viz/shared/7QQDTS66C
+
 ### Requirements:
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
